@@ -1,0 +1,1 @@
+Write-Host "Hello";Write-Host "bye"
